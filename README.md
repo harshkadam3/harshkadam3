@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Next.js,Nest.js,python**
 
-- 👯 I’m looking to collaborate on [E-commerce](https://github.com/harsh0kadam/E-commerce)
+- 👯 I’m looking to collaborate on [E-commerce](https://github.com/harshkadam3)
 
 - 👨‍💻 All of my projects are available at [https://github.com/harsh0kadam/MyPortfolio](https://github.com/harsh0kadam/MyPortfolio)
 
